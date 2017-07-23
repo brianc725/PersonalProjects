@@ -1,3 +1,5 @@
+#Fake Pong
+
 A simple Pong like game created using Java on Eclipse with Proclipsing and Processing. 
 
 Uses 'w' and 's' for up and down for first player, respectively, and 'i' and 'k' for up and down for the second player. Ball bounces with random speed after collisison with the paddles.
