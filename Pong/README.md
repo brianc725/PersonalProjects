@@ -1,4 +1,4 @@
-#Fake Pong
+# FakePong
 
 A simple Pong like game created using Java on Eclipse with Proclipsing and Processing. 
 
